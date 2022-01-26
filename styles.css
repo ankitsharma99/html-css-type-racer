@@ -26,7 +26,7 @@ body {
 }
 
 .progress-bar.active {
-    animation: 10s animate linear;
+    animation: 15s animate linear;
 }
 
 @keyframes animate {
